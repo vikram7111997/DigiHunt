@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+    android:orientation="vertical"
+    android:layout_margin="30dp"
+    tools:context="com.example.vikram.digihunt.MainActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:src="@drawable/login" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:hint="USERNAME"
+        android:background="#11000000"
+        android:layout_marginTop="40dp"
+        android:id="@+id/username"
+        android:inputType="textPassword"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:hint="PASSWORD"
+        android:layout_marginTop="15dp"
+        android:background="#11000000"
+        android:id="@+id/password"
+        android:inputType="numberPassword"/>
+
+    <Button
+        android:id="@+id/login"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="15dp"
+        android:text="LOGIN"
+        android:textStyle="bold"
+        android:textColor="#110" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DO U DARE TO HUNT?"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:textColor="#ff0000"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        />
+</LinearLayout>

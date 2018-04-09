@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="15dp"
+    android:orientation="vertical"
+    tools:context="com.example.vikram.digihunt.credit">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:src="@drawable/vibrant"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        />
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text=" APP DEVELOPED BY :- "
+    android:layout_marginTop="20dp"
+    android:textColor="#fa0000"
+    android:textStyle="bold"
+    android:textSize="18dp"
+    android:gravity="center"
+    />
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text=" MR. VIKRAM ARJUN SHINDE. "
+    android:textColor="#000000"
+    android:textStyle="bold"
+    android:gravity="center"
+    android:textSize="18dp"
+
+    />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" vikram7111997@gmail.com "
+        android:textColor="#000000"
+        android:gravity="center"
+        android:textSize="12dp"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" TECHNICAL TEAM :- "
+        android:textColor="#fa0000"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" MR. AVINASH RAJPUT. "
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" MR. PRATHAMESH DHAVALE. "
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:gravity="center"
+        />
+    <TextView
+        android:id="@+id/mor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" *****SGI COMP SCI ENG DEPT 2K17-18***** "
+        android:textColor="#001dfa"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:singleLine="true"
+        android:scrollHorizontally="true"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+
+        />
+
+
+</LinearLayout>
