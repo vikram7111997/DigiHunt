@@ -19,7 +19,8 @@ and then have a look at it.
 # Library used:
 Also i have used an open source library for scanning the qr code known as the 'zxing' api which is very fast and responsive api in terms of scanning any qr code in the world.
 
-# P.S - I Have added the app's apk file inside the root folder of this repo so that u can install it onto ur android phone(make sure it is above android 4.4) for using or testing purpose.It will ask for an username and a password which is as below -
+## P.S - I Have added the app's apk file inside the root folder of this repo so that u can install it onto ur android phone(make sure it is above android 4.4) for using or testing purpose.It will ask for an username and a password which is as below -
 
 USERNAME - DISGUSTING
+
 PASSWORD - 2018
