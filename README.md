@@ -15,4 +15,11 @@ Also a warning message is also available if the user or the participant would tr
 # Installing the project 
 If u want to install this project onto ur local system then clone this repo onto ur machine and open it into ur android studioa(make sure its above 2.3.3)
 and then have a look at it.
-Also i used a open source api for scanning the qr code known as the zxing api which is very fast and responsive api in terms of scanning any qr code in the world.
+
+# Library used:
+Also i have used an open source library for scanning the qr code known as the 'zxing' api which is very fast and responsive api in terms of scanning any qr code in the world.
+
+# P.S - I Have added the app's apk file inside the root folder of this repo so that u can install it onto ur android phone(make sure it is above android 4.4) for using or testing purpose.It will ask for an username and a password which is as below -
+
+USERNAME - DISGUSTING
+PASSWORD - 2018
