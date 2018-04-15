@@ -24,3 +24,5 @@ Also i have used an open source library for scanning the qr code known as the 'z
 USERNAME - DISGUSTING
 
 PASSWORD - 2018
+
+## Also i have added the official letter head (inside the root folder of the repo) given to me by my college stating that I was the official developer of their event's app and the rights belong to me.
